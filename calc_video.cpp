@@ -9,11 +9,8 @@
 #include <chrono>
 #include <ctime>
 #include <random>
-#include <experimental/filesystem>
 
-#include "field.h"
 #include "functions.h"
-
 
 using namespace std;
 double ff;
